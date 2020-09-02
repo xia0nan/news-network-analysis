@@ -32,4 +32,4 @@ refinitiv_id | 3 | 1
 refinitiv_id | 3 | 2
 
 ## 02.09.2020
-Extract 
+Extract news with multiple permids
