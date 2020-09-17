@@ -61,8 +61,6 @@ source_nodes = source_nodes.groupby(['source_company']).sum().reset_index()
 # print(source_nodes)
 # print()
 
-source_nodes['c_news'] = source_nodes['c_news']
-
 node_list = source_nodes['source_company'].tolist()
 # print(source_list)
 node_size = source_nodes['c_news'].tolist()
@@ -74,7 +72,6 @@ node_dict = dict(zip(node_list, node_size))
 
 target_nodes = df[['target_company','c_news']].copy()
 target_nodes = target_nodes.groupby(['target_company']).sum().reset_index()
-target_nodes['c_news'] = target_nodes['c_news']
 
 temp_node_list = target_nodes['target_company'].tolist()
 # print(source_list)
