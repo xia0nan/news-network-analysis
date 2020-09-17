@@ -1,0 +1,27 @@
+source_company,target_company,c_news
+Oversea-Chinese Banking Corporation Ltd,DBS Group Holdings Ltd,41
+DBS Group Holdings Ltd,Oversea-Chinese Banking Corporation Ltd,41
+Oversea-Chinese Banking Corporation Ltd,United Overseas Bank Ltd,29
+United Overseas Bank Ltd,Oversea-Chinese Banking Corporation Ltd,29
+United Overseas Bank Ltd,DBS Group Holdings Ltd,28
+DBS Group Holdings Ltd,United Overseas Bank Ltd,28
+Malayan Banking Bhd,Cimb Group Holdings Bhd,7
+Cimb Group Holdings Bhd,Malayan Banking Bhd,7
+Malayan Banking Bhd,United Overseas Bank Ltd,6
+United Overseas Bank Ltd,Malayan Banking Bhd,6
+DBS Group Holdings Ltd,Bank of China Ltd,5
+Bank of China Ltd,Oversea-Chinese Banking Corporation Ltd,5
+Oversea-Chinese Banking Corporation Ltd,Bank of China Ltd,5
+Bank of China Ltd,DBS Group Holdings Ltd,5
+Malayan Banking Bhd,Oversea-Chinese Banking Corporation Ltd,3
+Oversea-Chinese Banking Corporation Ltd,Malayan Banking Bhd,3
+Bank of China Ltd,United Overseas Bank Ltd,1
+Cimb Group Holdings Bhd,Bank of China Ltd,1
+DBS Group Holdings Ltd,Cimb Group Holdings Bhd,1
+United Overseas Bank Ltd,Cimb Group Holdings Bhd,1
+Cimb Group Holdings Bhd,DBS Group Holdings Ltd,1
+Bank of China Ltd,Cimb Group Holdings Bhd,1
+Oversea-Chinese Banking Corporation Ltd,Cimb Group Holdings Bhd,1
+United Overseas Bank Ltd,Bank of China Ltd,1
+Cimb Group Holdings Bhd,Oversea-Chinese Banking Corporation Ltd,1
+Cimb Group Holdings Bhd,United Overseas Bank Ltd,1

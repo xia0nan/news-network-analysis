@@ -1,0 +1,198 @@
+source_company,target_company,c_news
+Bank of China Ltd,Industrial and Commercial Bank of China Ltd,55
+Oversea-Chinese Banking Corporation Ltd,DBS Group Holdings Ltd,41
+DBS Group Holdings Ltd,Oversea-Chinese Banking Corporation Ltd,41
+Bank of China Ltd,China Construction Bank Corp,37
+Bank of China Ltd,Bank of Communications Co Ltd,35
+United Overseas Bank Ltd,Oversea-Chinese Banking Corporation Ltd,29
+Oversea-Chinese Banking Corporation Ltd,United Overseas Bank Ltd,29
+DBS Group Holdings Ltd,United Overseas Bank Ltd,28
+United Overseas Bank Ltd,DBS Group Holdings Ltd,28
+Bank of China Ltd,Agricultural Bank of China Ltd,21
+Bank of China Ltd,HSBC Holdings PLC,13
+Oversea-Chinese Banking Corporation Ltd,HSBC Holdings PLC,11
+Oversea-Chinese Banking Corporation Ltd,Societe Generale SA,11
+DBS Group Holdings Ltd,Societe Generale SA,11
+DBS Group Holdings Ltd,HSBC Holdings PLC,11
+DBS Group Holdings Ltd,Carnival Corp,9
+DBS Group Holdings Ltd,Temasek Holdings (Private) Ltd,9
+Bank of China Ltd,Shanghai Pudong Development Bank Co Ltd,8
+DBS Group Holdings Ltd,Singapore Airlines Ltd,8
+Oversea-Chinese Banking Corporation Ltd,Hin Leong Trading (Pte) Ltd,7
+Oversea-Chinese Banking Corporation Ltd,Ocean Tankers Pte Ltd,7
+DBS Group Holdings Ltd,Alibaba Group Holding Ltd,7
+Malayan Banking Bhd,Cimb Group Holdings Bhd,7
+DBS Group Holdings Ltd,United Continental Holdings Inc,7
+Cimb Group Holdings Bhd,Malayan Banking Bhd,7
+DBS Group Holdings Ltd,BlackRock Inc,7
+Bank of China Ltd,Standard Chartered PLC,7
+Bank of China Ltd,Tata Motors Ltd,6
+Bank of China Ltd,CME Group Inc,6
+Oversea-Chinese Banking Corporation Ltd,Standard Chartered PLC,6
+United Overseas Bank Ltd,Malayan Banking Bhd,6
+Oversea-Chinese Banking Corporation Ltd,KS Energy Ltd,6
+Malayan Banking Bhd,United Overseas Bank Ltd,6
+Bank of China Ltd,Wuling Motors Holdings Ltd,6
+DBS Group Holdings Ltd,Singapore Telecommunications Ltd,6
+United Overseas Bank Ltd,Australia and New Zealand Banking Group Ltd,6
+Oversea-Chinese Banking Corporation Ltd,OCBC Bank (Malaysia) Bhd,6
+Bank of China Ltd,Societe Generale SA,6
+DBS Group Holdings Ltd,Standard Chartered PLC,5
+Oversea-Chinese Banking Corporation Ltd,CAA Resources Ltd,5
+Oversea-Chinese Banking Corporation Ltd,Singapore Telecommunications Ltd,5
+DBS Group Holdings Ltd,Stock Exchange of Thailand,5
+Oversea-Chinese Banking Corporation Ltd,Bank of China Ltd,5
+Oversea-Chinese Banking Corporation Ltd,Stock Exchange of Thailand,5
+Oversea-Chinese Banking Corporation Ltd,ABN Amro Bank NV,5
+DBS Group Holdings Ltd,Bank of China Ltd,5
+DBS Group Holdings Ltd,ABN Amro Bank NV,5
+Bank of China Ltd,BOC Hong Kong Holdings Ltd,5
+Bank of China Ltd,DBS Group Holdings Ltd,5
+Bank of China Ltd,Oversea-Chinese Banking Corporation Ltd,5
+Bank of China Ltd,ING Groep NV,4
+DBS Group Holdings Ltd,Razer Inc,4
+Oversea-Chinese Banking Corporation Ltd,Razer Inc,4
+DBS Group Holdings Ltd,Mastercard Inc,4
+Malayan Banking Bhd,ING Groep NV,4
+DBS Group Holdings Ltd,Qantas Airways Ltd,4
+DBS Group Holdings Ltd,,4
+DBS Group Holdings Ltd,Air New Zealand Ltd,4
+Oversea-Chinese Banking Corporation Ltd,Australia and New Zealand Banking Group Ltd,4
+Bank of China Ltd,Royal Dutch Shell PLC,4
+DBS Group Holdings Ltd,HDFC Bank Ltd,4
+DBS Group Holdings Ltd,Australia and New Zealand Banking Group Ltd,4
+Cimb Group Holdings Bhd,,4
+United Overseas Bank Ltd,Mitsubishi UFJ Financial Group Inc,4
+Malayan Banking Bhd,Mitsubishi UFJ Financial Group Inc,4
+Malayan Banking Bhd,Agritrade Resources Ltd,4
+Bank of China Ltd,BOC Aviation Ltd,4
+Bank of China Ltd,Credit Agricole Bank PAT,4
+Cimb Group Holdings Bhd,BP PLC,4
+Bank of China Ltd,Natixis SA,4
+DBS Group Holdings Ltd,Sea Ltd,4
+DBS Group Holdings Ltd,Axis Bank Ltd,4
+Bank of China Ltd,Total SA,4
+DBS Group Holdings Ltd,Virgin Australia Holdings Ltd,4
+Oversea-Chinese Banking Corporation Ltd,Alibaba Group Holding Ltd,4
+Bank of China Ltd,Credit Suisse Group AG,4
+Cimb Group Holdings Bhd,Hontop Energy (Singapore) Pte Ltd,4
+Bank of China Ltd,Aston Martin Lagonda Global Holdings PLC,3
+DBS Group Holdings Ltd,National Australia Bank Ltd,3
+United Overseas Bank Ltd,National Australia Bank Ltd,3
+Oversea-Chinese Banking Corporation Ltd,National Australia Bank Ltd,3
+Bank of China Ltd,AP Moeller - Maersk A/S,3
+United Overseas Bank Ltd,ING Groep NV,3
+Malayan Banking Bhd,Axiata Group Bhd,3
+Cimb Group Holdings Bhd,Axiata Group Bhd,3
+Oversea-Chinese Banking Corporation Ltd,Malayan Banking Bhd,3
+United Overseas Bank Ltd,Sumitomo Mitsui Financial Group Inc,3
+Oversea-Chinese Banking Corporation Ltd,Sumitomo Mitsui Financial Group Inc,3
+Malayan Banking Bhd,Oversea-Chinese Banking Corporation Ltd,3
+Oversea-Chinese Banking Corporation Ltd,DMCI Holdings Inc,3
+Oversea-Chinese Banking Corporation Ltd,San Miguel Corp,3
+DBS Group Holdings Ltd,Westpac Banking Corp,3
+United Overseas Bank Ltd,Westpac Banking Corp,3
+Oversea-Chinese Banking Corporation Ltd,Commonwealth Bank of Australia,3
+DBS Group Holdings Ltd,Commonwealth Bank of Australia,3
+United Overseas Bank Ltd,Commonwealth Bank of Australia,3
+DBS Group Holdings Ltd,JPMorgan Chase & Co,3
+United Overseas Bank Ltd,Natixis SA,3
+Cimb Group Holdings Bhd,Zhejiang Ant Small & Micro Financial Service Goup Co Ltd,3
+Bank of China Ltd,Amundi SA,3
+Oversea-Chinese Banking Corporation Ltd,Internet Thailand PCL,3
+Oversea-Chinese Banking Corporation Ltd,Capitaland Mall Trust,3
+Oversea-Chinese Banking Corporation Ltd,Max Metal Corporation PCL,3
+Oversea-Chinese Banking Corporation Ltd,Royal Orchid Hotel Thailand PCL,3
+Oversea-Chinese Banking Corporation Ltd,Bloomberry Resorts Corp,3
+DBS Group Holdings Ltd,Schroders PLC,3
+Bank of China Ltd,Banco de Sabadell SA,3
+Oversea-Chinese Banking Corporation Ltd,Korea Exchange,3
+Malayan Banking Bhd,Maybank Islamic Bhd,3
+Oversea-Chinese Banking Corporation Ltd,Mapletree Commercial Trust,3
+Bank of China Ltd,Bank of Gansu Co Ltd,3
+Oversea-Chinese Banking Corporation Ltd,Sea Ltd,3
+Bank of China Ltd,,3
+Bank of China Ltd,Petroliam Nasional Bhd,2
+United Overseas Bank Ltd,Capitaland Ltd,2
+Bank of China Ltd,Barclays PLC,2
+Cimb Group Holdings Bhd,Kresna Graha Investama Tbk PT,2
+Bank of China Ltd,BP PLC,2
+Bank of China Ltd,Nomura Holdings Inc,2
+Oversea-Chinese Banking Corporation Ltd,Mitsubishi UFJ Financial Group Inc,2
+Bank of China Ltd,PTT PCL,2
+Bank of China Ltd,Industrial Bank Co Ltd,2
+DBS Group Holdings Ltd,American Airlines Group Inc,2
+Cimb Group Holdings Bhd,Top Glove Corporation Bhd,2
+Bank of China Ltd,PetroChina Co Ltd,2
+DBS Group Holdings Ltd,Alphabet Inc,2
+Bank of China Ltd,Equinor ASA,2
+Malayan Banking Bhd,Sumitomo Mitsui Financial Group Inc,2
+Malayan Banking Bhd,Mizuho Financial Group Inc,2
+Cimb Group Holdings Bhd,Credit Suisse Group AG,2
+United Overseas Bank Ltd,Mizuho Financial Group Inc,2
+Cimb Group Holdings Bhd,Affin Bank Bhd,2
+Cimb Group Holdings Bhd,Hartalega Holdings Bhd,2
+Oversea-Chinese Banking Corporation Ltd,S&P Global Inc,2
+DBS Group Holdings Ltd,S&P Global Inc,2
+Bank of China Ltd,S&P Global Inc,2
+Bank of China Ltd,Carnival Corp,2
+Oversea-Chinese Banking Corporation Ltd,Mizuho Financial Group Inc,2
+DBS Group Holdings Ltd,International Business Machines Corp,2
+DBS Group Holdings Ltd,Zoom Video Communications Inc,2
+Cimb Group Holdings Bhd,CIMB Thai Bank PCL,2
+United Overseas Bank Ltd,First Abu Dhabi Bank PJSC,2
+Malayan Banking Bhd,Hong Leong Bank Bhd,2
+DBS Group Holdings Ltd,Atlassian Corp PLC,2
+Cimb Group Holdings Bhd,Pelikan International Corporation Bhd,2
+DBS Group Holdings Ltd,Chong Hing Bank Ltd,2
+Bank of China Ltd,UBS Group AG,2
+Bank of China Ltd,China Aviation Oil (Singapore) Corporation Ltd,2
+Malayan Banking Bhd,Airasia Group Bhd,2
+Cimb Group Holdings Bhd,Airasia Group Bhd,2
+United Overseas Bank Ltd,Taishin International Bank,2
+Cimb Group Holdings Bhd,Serba Dinamik Holdings Bhd,2
+Bank of China Ltd,China Banking Corp,2
+DBS Group Holdings Ltd,Goldman Sachs Group Inc,2
+United Overseas Bank Ltd,Bendigo and Adelaide Bank Ltd,2
+Malayan Banking Bhd,Razer Inc,2
+DBS Group Holdings Ltd,Morgan Stanley,2
+Malayan Banking Bhd,Public Bank Bhd,2
+Bank of China Ltd,Interactive Brokers Group Inc,2
+DBS Group Holdings Ltd,Slack Technologies Inc,2
+DBS Group Holdings Ltd,Facebook Inc,2
+United Overseas Bank Ltd,Vietnam Technological and Commercial Joint Stock Bank,2
+DBS Group Holdings Ltd,Twitter Inc,2
+Cimb Group Holdings Bhd,Stock Exchange of Thailand,2
+Cimb Group Holdings Bhd,Public Bank Bhd,2
+DBS Group Holdings Ltd,ING Groep NV,2
+Oversea-Chinese Banking Corporation Ltd,ING Groep NV,2
+Cimb Group Holdings Bhd,Razer Inc,2
+Bank of China Ltd,Uber Technologies Inc,2
+DBS Group Holdings Ltd,Ctrip.Com International Ltd,2
+Bank of China Ltd,Banque Internationale pour le Commerce et l Industrie de Cote d Ivoire SA,2
+United Overseas Bank Ltd,Agritrade Resources Ltd,2
+Cimb Group Holdings Bhd,Hong Leong Bank Bhd,2
+Oversea-Chinese Banking Corporation Ltd,Jardine Matheson Holdings Ltd,2
+DBS Group Holdings Ltd,Hang Seng Bank Ltd,2
+Cimb Group Holdings Bhd,1Malaysia Development Bhd,2
+DBS Group Holdings Ltd,Bendigo and Adelaide Bank Ltd,2
+Bank of China Ltd,China Zheshang Bank Co Ltd,2
+DBS Group Holdings Ltd,Lenovo Group Ltd,2
+Cimb Group Holdings Bhd,Anabatic Technologies Tbk PT,2
+United Overseas Bank Ltd,Bank of Queensland Ltd,2
+Oversea-Chinese Banking Corporation Ltd,Suncorp Group Ltd,2
+Oversea-Chinese Banking Corporation Ltd,Bank of Queensland Ltd,2
+United Overseas Bank Ltd,Chong Hing Bank Ltd,2
+Oversea-Chinese Banking Corporation Ltd,Natixis SA,2
+Malayan Banking Bhd,Natixis SA,2
+DBS Group Holdings Ltd,Natixis SA,2
+Bank of China Ltd,China Merchants Bank Co Ltd,2
+DBS Group Holdings Ltd,Bank of Queensland Ltd,2
+United Overseas Bank Ltd,CTBC Bank Co Ltd,2
+Bank of China Ltd,Eni SpA,2
+Malayan Banking Bhd,Zhejiang Ant Small & Micro Financial Service Goup Co Ltd,2
+Cimb Group Holdings Bhd,Acset Indonusa Tbk PT,2
+Bank of China Ltd,UniCredit SpA,2
+Cimb Group Holdings Bhd,Bank CIMB Niaga Tbk PT,2
+United Overseas Bank Ltd,Bank Rakyat Indonesia (Persero) Tbk PT,2
+Malayan Banking Bhd,Bank Rakyat Indonesia (Persero) Tbk PT,2
