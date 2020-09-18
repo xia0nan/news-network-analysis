@@ -1,111 +1,111 @@
 source,target,weight,link_type
-Bank of China Ltd,Industrial and Commercial Bank of China Ltd,27,ORGANIZATION
-DBS Group Holdings Ltd,Oversea-Chinese Banking Corporation Ltd,20,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,DBS Group Holdings Ltd,20,ORGANIZATION
-Bank of China Ltd,China Construction Bank Corp,18,ORGANIZATION
-Bank of China Ltd,Bank of Communications Co Ltd,17,ORGANIZATION
-United Overseas Bank Ltd,Oversea-Chinese Banking Corporation Ltd,14,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,United Overseas Bank Ltd,14,ORGANIZATION
-DBS Group Holdings Ltd,United Overseas Bank Ltd,14,ORGANIZATION
-United Overseas Bank Ltd,DBS Group Holdings Ltd,14,ORGANIZATION
-Bank of China Ltd,Agricultural Bank of China Ltd,10,ORGANIZATION
-Bank of China Ltd,HSBC Holdings PLC,6,ORGANIZATION
-DBS Group Holdings Ltd,HSBC Holdings PLC,5,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,HSBC Holdings PLC,5,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,Societe Generale SA,5,ORGANIZATION
-DBS Group Holdings Ltd,Societe Generale SA,5,ORGANIZATION
-DBS Group Holdings Ltd,Carnival Corp,4,ORGANIZATION
-DBS Group Holdings Ltd,Temasek Holdings (Private) Ltd,4,ORGANIZATION
-Bank of China Ltd,Shanghai Pudong Development Bank Co Ltd,4,ORGANIZATION
-DBS Group Holdings Ltd,Singapore Airlines Ltd,4,ORGANIZATION
-Cimb Group Holdings Bhd,Malayan Banking Bhd,3,ORGANIZATION
-Malayan Banking Bhd,Cimb Group Holdings Bhd,3,ORGANIZATION
-DBS Group Holdings Ltd,United Continental Holdings Inc,3,ORGANIZATION
-DBS Group Holdings Ltd,BlackRock Inc,3,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,Hin Leong Trading (Pte) Ltd,3,ORGANIZATION
-Bank of China Ltd,Standard Chartered PLC,3,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,Ocean Tankers Pte Ltd,3,ORGANIZATION
-DBS Group Holdings Ltd,Alibaba Group Holding Ltd,3,ORGANIZATION
-United Overseas Bank Ltd,Malayan Banking Bhd,3,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,Standard Chartered PLC,3,ORGANIZATION
-DBS Group Holdings Ltd,Singapore Telecommunications Ltd,3,ORGANIZATION
-United Overseas Bank Ltd,Australia and New Zealand Banking Group Ltd,3,ORGANIZATION
-Malayan Banking Bhd,United Overseas Bank Ltd,3,ORGANIZATION
-Bank of China Ltd,Wuling Motors Holdings Ltd,3,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,OCBC Bank (Malaysia) Bhd,3,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,KS Energy Ltd,3,ORGANIZATION
-Bank of China Ltd,Societe Generale SA,3,ORGANIZATION
-Bank of China Ltd,Tata Motors Ltd,3,ORGANIZATION
-Bank of China Ltd,CME Group Inc,3,ORGANIZATION
-Bank of China Ltd,BOC Hong Kong Holdings Ltd,2,ORGANIZATION
-DBS Group Holdings Ltd,ABN Amro Bank NV,2,ORGANIZATION
-DBS Group Holdings Ltd,Stock Exchange of Thailand,2,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,Stock Exchange of Thailand,2,ORGANIZATION
-DBS Group Holdings Ltd,Bank of China Ltd,2,ORGANIZATION
-Bank of China Ltd,Oversea-Chinese Banking Corporation Ltd,2,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,Bank of China Ltd,2,ORGANIZATION
-Bank of China Ltd,DBS Group Holdings Ltd,2,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,Singapore Telecommunications Ltd,2,ORGANIZATION
-DBS Group Holdings Ltd,Standard Chartered PLC,2,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,ABN Amro Bank NV,2,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,CAA Resources Ltd,2,ORGANIZATION
-Bank of China Ltd,Total SA,2,ORGANIZATION
-Malayan Banking Bhd,Agritrade Resources Ltd,2,ORGANIZATION
-Bank of China Ltd,Royal Dutch Shell PLC,2,ORGANIZATION
-DBS Group Holdings Ltd,Air New Zealand Ltd,2,ORGANIZATION
-Malayan Banking Bhd,ING Groep NV,2,ORGANIZATION
-Bank of China Ltd,ING Groep NV,2,ORGANIZATION
-DBS Group Holdings Ltd,HDFC Bank Ltd,2,ORGANIZATION
-United Overseas Bank Ltd,Mitsubishi UFJ Financial Group Inc,2,ORGANIZATION
-Malayan Banking Bhd,Mitsubishi UFJ Financial Group Inc,2,ORGANIZATION
-DBS Group Holdings Ltd,Axis Bank Ltd,2,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,Alibaba Group Holding Ltd,2,ORGANIZATION
-DBS Group Holdings Ltd,Australia and New Zealand Banking Group Ltd,2,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,Australia and New Zealand Banking Group Ltd,2,ORGANIZATION
-DBS Group Holdings Ltd,Virgin Australia Holdings Ltd,2,ORGANIZATION
-Bank of China Ltd,Natixis SA,2,ORGANIZATION
-Cimb Group Holdings Bhd,BP PLC,2,ORGANIZATION
-DBS Group Holdings Ltd,Mastercard Inc,2,ORGANIZATION
-Bank of China Ltd,Credit Suisse Group AG,2,ORGANIZATION
-Bank of China Ltd,BOC Aviation Ltd,2,ORGANIZATION
-Bank of China Ltd,Credit Agricole Bank PAT,2,ORGANIZATION
-DBS Group Holdings Ltd,Sea Ltd,2,ORGANIZATION
-Cimb Group Holdings Bhd,Hontop Energy (Singapore) Pte Ltd,2,ORGANIZATION
-DBS Group Holdings Ltd,Razer Inc,2,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,Razer Inc,2,ORGANIZATION
-DBS Group Holdings Ltd,Qantas Airways Ltd,2,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,DMCI Holdings Inc,1,ORGANIZATION
-Bank of China Ltd,Bank of Gansu Co Ltd,1,ORGANIZATION
-Malayan Banking Bhd,Oversea-Chinese Banking Corporation Ltd,1,ORGANIZATION
-United Overseas Bank Ltd,Sumitomo Mitsui Financial Group Inc,1,ORGANIZATION
-Bank of China Ltd,Amundi SA,1,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,Internet Thailand PCL,1,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,Capitaland Mall Trust,1,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,Max Metal Corporation PCL,1,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,Royal Orchid Hotel Thailand PCL,1,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,Bloomberry Resorts Corp,1,ORGANIZATION
-DBS Group Holdings Ltd,Schroders PLC,1,ORGANIZATION
-Bank of China Ltd,Banco de Sabadell SA,1,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,Sumitomo Mitsui Financial Group Inc,1,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,Malayan Banking Bhd,1,ORGANIZATION
-Malayan Banking Bhd,Axiata Group Bhd,1,ORGANIZATION
-Cimb Group Holdings Bhd,Axiata Group Bhd,1,ORGANIZATION
-United Overseas Bank Ltd,ING Groep NV,1,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,Korea Exchange,1,ORGANIZATION
-Bank of China Ltd,AP Moeller - Maersk A/S,1,ORGANIZATION
-United Overseas Bank Ltd,National Australia Bank Ltd,1,ORGANIZATION
-Bank of China Ltd,Aston Martin Lagonda Global Holdings PLC,1,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,Sea Ltd,1,ORGANIZATION
-Malayan Banking Bhd,Maybank Islamic Bhd,1,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,National Australia Bank Ltd,1,ORGANIZATION
-United Overseas Bank Ltd,Natixis SA,1,ORGANIZATION
-Cimb Group Holdings Bhd,Zhejiang Ant Small & Micro Financial Service Goup Co Ltd,1,ORGANIZATION
-DBS Group Holdings Ltd,JPMorgan Chase & Co,1,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,Commonwealth Bank of Australia,1,ORGANIZATION
-DBS Group Holdings Ltd,Commonwealth Bank of Australia,1,ORGANIZATION
-DBS Group Holdings Ltd,National Australia Bank Ltd,1,ORGANIZATION
-United Overseas Bank Ltd,Commonwealth Bank of Australia,1,ORGANIZATION
-United Overseas Bank Ltd,Westpac Banking Corp,1,ORGANIZATION
-DBS Group Holdings Ltd,Westpac Banking Corp,1,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,Mapletree Commercial Trust,1,ORGANIZATION
-Oversea-Chinese Banking Corporation Ltd,San Miguel Corp,1,ORGANIZATION
+BOC,ICBC,27,ORGANIZATION
+DBS,OCBC,20,ORGANIZATION
+OCBC,DBS,20,ORGANIZATION
+BOC,CCB,18,ORGANIZATION
+BOC,Bank of Communications,17,ORGANIZATION
+UOB,OCBC,14,ORGANIZATION
+OCBC,UOB,14,ORGANIZATION
+DBS,UOB,14,ORGANIZATION
+UOB,DBS,14,ORGANIZATION
+BOC,Agricultural Bank of China,10,ORGANIZATION
+BOC,HSBC,6,ORGANIZATION
+DBS,HSBC,5,ORGANIZATION
+OCBC,HSBC,5,ORGANIZATION
+OCBC,Societe Generale,5,ORGANIZATION
+DBS,Societe Generale,5,ORGANIZATION
+DBS,Carnival Corp,4,ORGANIZATION
+DBS,Temasek,4,ORGANIZATION
+BOC,SPD Bank,4,ORGANIZATION
+DBS,Singapore Airlines,4,ORGANIZATION
+CIMB,Maybank,3,ORGANIZATION
+Maybank,CIMB,3,ORGANIZATION
+DBS,UAH,3,ORGANIZATION
+DBS,BlackRock,3,ORGANIZATION
+OCBC,Hin Leong,3,ORGANIZATION
+BOC,Standard Chartered,3,ORGANIZATION
+OCBC,Ocean Tankers,3,ORGANIZATION
+DBS,Alibaba Group,3,ORGANIZATION
+UOB,Maybank,3,ORGANIZATION
+OCBC,Standard Chartered,3,ORGANIZATION
+DBS,Singtel,3,ORGANIZATION
+UOB,ANZ,3,ORGANIZATION
+Maybank,UOB,3,ORGANIZATION
+BOC,Wuling Motors,3,ORGANIZATION
+OCBC,OCBC Malaysia,3,ORGANIZATION
+OCBC,KS Energy Ltd,3,ORGANIZATION
+BOC,Societe Generale,3,ORGANIZATION
+BOC,Tata Motors,3,ORGANIZATION
+BOC,CME Group,3,ORGANIZATION
+BOC,BOCHK,2,ORGANIZATION
+DBS,ABN AMRO,2,ORGANIZATION
+DBS,SET,2,ORGANIZATION
+OCBC,SET,2,ORGANIZATION
+DBS,BOC,2,ORGANIZATION
+BOC,OCBC,2,ORGANIZATION
+OCBC,BOC,2,ORGANIZATION
+BOC,DBS,2,ORGANIZATION
+OCBC,Singtel,2,ORGANIZATION
+DBS,Standard Chartered,2,ORGANIZATION
+OCBC,ABN AMRO,2,ORGANIZATION
+OCBC,CAA Resources,2,ORGANIZATION
+BOC,Total,2,ORGANIZATION
+Maybank,Agritrade Resources,2,ORGANIZATION
+BOC,Shell,2,ORGANIZATION
+DBS,NZ,2,ORGANIZATION
+Maybank,ING Group,2,ORGANIZATION
+BOC,ING Group,2,ORGANIZATION
+DBS,HDFC Bank,2,ORGANIZATION
+UOB,MUFG,2,ORGANIZATION
+Maybank,MUFG,2,ORGANIZATION
+DBS,Axis Bank,2,ORGANIZATION
+OCBC,Alibaba Group,2,ORGANIZATION
+DBS,ANZ,2,ORGANIZATION
+OCBC,ANZ,2,ORGANIZATION
+DBS,Virgin Australia Holdings,2,ORGANIZATION
+BOC,Natixis,2,ORGANIZATION
+CIMB,BP,2,ORGANIZATION
+DBS,Mastercard,2,ORGANIZATION
+BOC,Credit Suisse,2,ORGANIZATION
+BOC,BOC Aviation,2,ORGANIZATION
+BOC,Credit Agricole,2,ORGANIZATION
+DBS,Sea,2,ORGANIZATION
+CIMB,Hontop Energy,2,ORGANIZATION
+DBS,Razer,2,ORGANIZATION
+OCBC,Razer,2,ORGANIZATION
+DBS,Qantas,2,ORGANIZATION
+OCBC,DMCI Homes,1,ORGANIZATION
+BOC,Bank of Gansu,1,ORGANIZATION
+Maybank,OCBC,1,ORGANIZATION
+UOB,SMFG,1,ORGANIZATION
+BOC,Amundi,1,ORGANIZATION
+OCBC,INET:TB,1,ORGANIZATION
+OCBC,CMT,1,ORGANIZATION
+OCBC,Max Metal Corporation,1,ORGANIZATION
+OCBC,ROH:TB,1,ORGANIZATION
+OCBC,Bloomberry,1,ORGANIZATION
+DBS,Schroders,1,ORGANIZATION
+BOC,Banco Sabadell,1,ORGANIZATION
+OCBC,SMFG,1,ORGANIZATION
+OCBC,Maybank,1,ORGANIZATION
+Maybank,Axiata,1,ORGANIZATION
+CIMB,Axiata,1,ORGANIZATION
+UOB,ING Group,1,ORGANIZATION
+OCBC,Korea Exchange,1,ORGANIZATION
+BOC,Maersk,1,ORGANIZATION
+UOB,NAB,1,ORGANIZATION
+BOC,Aston Martin,1,ORGANIZATION
+OCBC,Sea,1,ORGANIZATION
+Maybank,Maybank Islamic Berhad,1,ORGANIZATION
+OCBC,NAB,1,ORGANIZATION
+UOB,Natixis,1,ORGANIZATION
+CIMB,ANT Group,1,ORGANIZATION
+DBS,JPMorgan Chase,1,ORGANIZATION
+OCBC,Commonwealth Bank,1,ORGANIZATION
+DBS,Commonwealth Bank,1,ORGANIZATION
+DBS,NAB,1,ORGANIZATION
+UOB,Commonwealth Bank,1,ORGANIZATION
+UOB,Westpac,1,ORGANIZATION
+DBS,Westpac,1,ORGANIZATION
+OCBC,Mapletree Commercial Trust,1,ORGANIZATION
+OCBC,SMC,1,ORGANIZATION

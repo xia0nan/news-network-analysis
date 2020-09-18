@@ -20,7 +20,7 @@ var simulation = d3.forceSimulation()
     }))
     .force("charge", d3.forceManyBody()
         .strength(function (d) {
-            return -400;
+            return -800;
         }))
     .force("center", d3.forceCenter(width / 2, height / 2));
 
@@ -112,6 +112,9 @@ function create_entity_network() {
         .text(function (d) {
             return d.name;
         })
+        .style("font-size", function (d) {
+                    return d.size;
+                })
         .attr('x', 12)
         .attr('y', 4);
 

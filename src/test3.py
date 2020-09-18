@@ -15,7 +15,7 @@ PATH_DATA = PATH_PROJECT / 'data'
 # print(str(PATH_DATA))
 
 # df = pd.read_csv(str(PATH_DATA/'test2.csv'))
-df = pd.read_csv(str(PATH_DATA/'network_banks_temp4.csv'))
+df = pd.read_csv(str(PATH_DATA/'network_banks_temp5.csv'))
 df.dropna(inplace=True)
 # print(df.head())
 
@@ -136,14 +136,17 @@ app = dash.Dash(__name__)
 app.layout = html.Div([
     cyto.Cytoscape(
         id='cytoscape-network-analysis',
-        layout={'name': 'cose-bilkent', 
-                'padding': 10, 
-                'nodeRepulsion': 4500000, 
-                'idealEdgeLength': 300,
-                'edgeElasticity': 0.45,
-                'nestingFactor': 0.1,
-                'gravity': 0.25,
-                },
+        # layout={'name': 'cose-bilkent', 
+        #         'padding': 10, 
+        #         'nodeRepulsion': 450000, 
+        #         'idealEdgeLength': 200,
+        #         # 'edgeElasticity': 0.45,
+        #         # 'nestingFactor': 0.1,
+        #         # 'gravity': 0.25,
+        #         },
+        # layout={'name': 'cose', 'nodeRepulsion': 450000},
+        layout={'name': 'cola'},
+        # layout={'name': 'circle'},
         style={'width': '100%', 'height': '800px'},
         elements=elements
     )

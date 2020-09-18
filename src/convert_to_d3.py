@@ -78,7 +78,6 @@ df_node['type'] = 'ORGANIZATION'
 # assign sentiment
 sentiment_list = [-100, -50, 0, 50, 100]
 df_node['sentiment_emb'] = np.random.choice(sentiment_list, size=len(df_node))
-print(df_node)
+# print(df_node)
 
 df_node.to_csv(target_path + target_node_name, index=False)
-

@@ -1,0 +1,111 @@
+source_company,target_company,c_news
+BOC,ICBC,55
+DBS,OCBC,41
+OCBC,DBS,41
+BOC,CCB,37
+BOC,Bank of Communications,35
+UOB,OCBC,29
+OCBC,UOB,29
+DBS,UOB,28
+UOB,DBS,28
+BOC,Agricultural Bank of China,21
+BOC,HSBC,13
+DBS,HSBC,11
+OCBC,HSBC,11
+OCBC,Societe Generale,11
+DBS,Societe Generale,11
+DBS,Carnival Corp,9
+DBS,Temasek,9
+BOC,SPD Bank,8
+DBS,Singapore Airlines,8
+CIMB,Maybank,7
+Maybank,CIMB,7
+DBS,UAH,7
+DBS,BlackRock,7
+OCBC,Hin Leong,7
+BOC,Standard Chartered,7
+OCBC,Ocean Tankers,7
+DBS,Alibaba Group,7
+UOB,Maybank,6
+OCBC,Standard Chartered,6
+DBS,Singtel,6
+UOB,ANZ,6
+Maybank,UOB,6
+BOC,Wuling Motors,6
+OCBC,OCBC Malaysia,6
+OCBC,KS Energy Ltd,6
+BOC,Societe Generale,6
+BOC,Tata Motors,6
+BOC,CME Group,6
+BOC,BOCHK,5
+DBS,ABN AMRO,5
+DBS,SET,5
+OCBC,SET,5
+DBS,BOC,5
+BOC,OCBC,5
+OCBC,BOC,5
+BOC,DBS,5
+OCBC,Singtel,5
+DBS,Standard Chartered,5
+OCBC,ABN AMRO,5
+OCBC,CAA Resources,5
+BOC,Total,4
+Maybank,Agritrade Resources,4
+BOC,Shell,4
+DBS,NZ,4
+Maybank,ING Group,4
+BOC,ING Group,4
+DBS,HDFC Bank,4
+UOB,MUFG,4
+Maybank,MUFG,4
+DBS,Axis Bank,4
+OCBC,Alibaba Group,4
+DBS,ANZ,4
+OCBC,ANZ,4
+DBS,Virgin Australia Holdings,4
+BOC,Natixis,4
+CIMB,BP,4
+DBS,Mastercard,4
+BOC,Credit Suisse,4
+BOC,BOC Aviation,4
+BOC,Credit Agricole,4
+DBS,Sea,4
+CIMB,Hontop Energy,4
+DBS,Razer,4
+OCBC,Razer,4
+DBS,Qantas,4
+OCBC,DMCI Homes,3
+BOC,Bank of Gansu,3
+Maybank,OCBC,3
+UOB,SMFG,3
+BOC,Amundi,3
+OCBC,INET:TB,3
+OCBC,CMT,3
+OCBC,Max Metal Corporation,3
+OCBC,ROH:TB,3
+OCBC,Bloomberry,3
+DBS,Schroders,3
+BOC,Banco Sabadell,3
+OCBC,SMFG,3
+OCBC,Maybank,3
+Maybank,Axiata,3
+CIMB,Axiata,3
+UOB,ING Group,3
+OCBC,Korea Exchange,3
+BOC,Maersk,3
+UOB,NAB,3
+BOC,Aston Martin,3
+OCBC,Sea,3
+Maybank,Maybank Islamic Berhad,3
+OCBC,NAB,3
+UOB,Natixis,3
+CIMB,ANT Group,3
+DBS,JPMorgan Chase,3
+OCBC,Commonwealth Bank,3
+DBS,Commonwealth Bank,3
+DBS,NAB,3
+UOB,Commonwealth Bank,3
+UOB,Westpac,3
+DBS,Westpac,3
+OCBC,Mapletree Commercial Trust,3
+OCBC,SMC,3

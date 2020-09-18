@@ -17,6 +17,8 @@ def get_network_data():
     nodes = pd.read_csv(f'./static/data/banking_nodes.csv')
     links = pd.read_csv(f'./static/data/banking_links.csv')
 
+    nodes['size'] = pd.cut(nodes['importance'], bins=nodes['importance'].quantile([0.0, 0.25, 0.5, 0.75, 1]).to_list(), labels = ["8px", "10px", "12px", "16px"])
+
     nodes = json.dumps(nodes.to_dict(orient='records'))
     links = json.dumps(links.to_dict(orient='records'))
 
