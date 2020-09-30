@@ -227,31 +227,31 @@ function create_entity_network() {
     }
 
     function click_link(d){
-        // var source = d.source.name;
-        // var target = d.target.name;
-        // $.ajax({
-        //     url: '/ajax_click_link',
-        //     dataType: "json",
-        //     contentType: "application/json",
-        //     data: JSON.stringify({
-        //         'industry': industry,
-        //         'source': source,
-        //         'target': target
-        //     }),
-        //     type: 'POST',
-        //     success: function (response) {
-        //         $("#section_news").html("");
-        //         $("#section_news").hide();
-        //         last_timestamp = "";
-        //         var news = JSON.parse(response['news']);
-        //         for (var i = 0; i < news.length; i++) {
-        //             var this_news = news[i];
-        //             $("#section_news").append(get_news_html(this_news,show_timeline=true));
-        //             enable_sentiment_override();
-        //         }
-        //         $("#section_news").slideDown(1000);
-        //     }
-        // });
+        var source = d.source.name;
+        var target = d.target.name;
+        $.ajax({
+            url: '/ajax_click_link',
+            dataType: "json",
+            contentType: "application/json",
+            data: JSON.stringify({
+                'industry': industry,
+                'source': source,
+                'target': target
+            }),
+            type: 'POST',
+            success: function (response) {
+                $("#section_news").html("");
+                $("#section_news").hide();
+                last_timestamp = "";
+                var news = JSON.parse(response['news']);
+                for (var i = 0; i < news.length; i++) {
+                    var this_news = news[i];
+                    $("#section_news").append(get_news_html(this_news,show_timeline=true));
+                    enable_sentiment_override();
+                }
+                $("#section_news").slideDown(1000);
+            }
+        });
     }
 
     //Zoom functions
