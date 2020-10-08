@@ -1,0 +1,12 @@
+name,dtype,permid
+Department of Labor,Organization,https://permid.org/1-404010
+"University of California, Berkeley",Organization,https://permid.org/1-404010
+CJ Macklin,Person,https://permid.org/1-404011
+Michael Reich,Person,https://permid.org/1-404011
+New York City,City,-1
+Seattle,City,-1
+New York,City,-1
+Lyft,Company,5036653793
+Jenny Durkan,Person,https://permid.org/1-404011
+Uber,Company,5037473967
+Seattle City Council,Organization,https://permid.org/1-404010
